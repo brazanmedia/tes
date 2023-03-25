@@ -1,0 +1,22 @@
+{
+  "wtb": {
+    "token": [
+      "•CD •MISES •GOAL •SUIBG •ARBK •CORE"
+    ],
+    "stable": [
+      "•USDT •BUSD •USDC •ETH •BSC •MATIC •KLAY •AVAX"
+    ],
+    "saldo_dex": [
+      "•MEXC •BINANCE •BYBIT •BITMART •DIGIFINEX •BITGET •KUKOIN •GATE-IO"
+    ],
+    "lainya": [
+      "•PayPal •Chip HDI"
+    ]
+  },
+  "payment": {
+    "bca": 3570820370,
+    "seabank": 901204172299,
+    "NeoBank": 5859458182192360,
+    "e-wallet": 882005619735
+  }
+}
