@@ -1,10 +1,10 @@
 {
   "wtb": {
     "token": [
-      "•CD •MISES •GOAL •SUIBG •ARBK •CORE"
+      "•CD •MISES •GOAL •NBLUE •SUIBG •ARBK •CORE"
     ],
     "-": [
-      "•USDT •BUSD •USDC •ETH •BSC •MATIC •KLAY •AVAX"
+      "•USDT •BUSD •USDC •ETH •BSC •MATIC •KLAY •AVAX •HT"
     ],
     "saldo_sangkut": [
       "•MEXC •BINANCE •BYBIT •BITMART •DIGIFINEX •BITGET •KUKOIN •GATE-IO"
@@ -17,6 +17,7 @@
     "bca": 3570820370,
     "seabank": 901204172299,
     "NeoBank": 5859458182192360,
-    "e-wallet": 882005619735
+    "e-wallet": 882005619735,
+    "Note : ":"Mohon Sertakan screenshot bukti pengiriman 🙏🙏"
   }
 }
