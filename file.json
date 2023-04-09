@@ -1,10 +1,10 @@
 {
   "wtb": {
     "token": [
-      "•CD •JMPT •MISES •GOAL •NBLUE •MOOI •SUIBG •CORE"
+      "•CD •JMPT •MISES •SUIBG •GOAL •NBLUE •MOOI •SUIBG •CORE"
     ],
     "-": [
-      "•USDT •BUSD •USDC •ETH •BSC •MATIC •KLAY •AVAX •HT"
+      "•USDT •BUSD •USDC •ETH •BSC •MATIC •KLAY •AVAX •HT •MX •AVAX-C"
     ],
     "saldo_sangkut": [
       "•MEXC •BINANCE •BYBIT •BITMART •DIGIFINEX •BITGET •KUKOIN •GATE-IO"
