@@ -1,7 +1,7 @@
 {
   "wtb": {
     "token": [
-      "•CD •JMPT •MISES •GOAL •NBLUE •MOOI •SUIBG •CORE"
+      "•NEAR •JMPT •MB •GOAL •NBLUE •MOOI •ZETA •CORE"
     ],
     "-": [
       "•USDT •BUSD •USDC •ETH •BSC •MATIC •KLAY •SUI •ARB •AVAX •HT •MX •AVAX-C"
@@ -15,10 +15,9 @@
 "New" : ["•-_-"]
   },
   "payment": {
-    "bca": 3570820370,
     "seabank": 901204172299,
     "NeoBank": 5859458182192360,
-    "Dana/Ovo/Gopay": "0882005619735",
+    "Dana/Gopay": "0882005619735",
     "\nNote ":" "
   },
   "id": [1966162109, 926506362, 1436585331]
